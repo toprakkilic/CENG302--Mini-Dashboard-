@@ -1,0 +1,1 @@
+def get_info(): return "Git Atölyesi Başarıyla Tamamlandı! -bartu"
